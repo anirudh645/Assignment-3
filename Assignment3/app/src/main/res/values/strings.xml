@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Assignment-3</string>
+    <string name="this_is_my_first_page_click_on_the_button_to_go_to_second_page">This is My first page Click on the button to go to second page</string>
+    <string name="go">Go</string>
+    <string name="this_is_the_second_page_click_on_the_go_button_to_go_to_first_page">This is the Second page click on the go button to go to first page</string>
+</resources>
