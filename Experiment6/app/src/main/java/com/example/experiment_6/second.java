@@ -9,6 +9,6 @@ public class second extends AppCompatActivity {
     protected void onCreate(Bundle saved){
         super.onCreate(saved);
         setContentView(R.layout.home);
-        Intent i = getIntent();
+        Intent intent = getIntent();
     }
 }
