@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Experiment-6</string>
+    <string name="username">Enter email id</string>
+    <string name="password">password</string>
+    <string name="enter_password">Enter Password:</string>
+    <string name="enter_username">Enter username:</string>
+    <string name="login">Login</string>
+    <string name="username_and_password_are_not_correct">Username and password are not correct</string>
+    <string name="username_and_password_are_correct">Username and password are correct</string>
+    <string name="spam">Spam</string>
+    <string name="inbox">Inbox</string>
+    <string name="home">Home</string>
+</resources>
