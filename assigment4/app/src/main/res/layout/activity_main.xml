@@ -77,7 +77,7 @@
         android:layout_height="wrap_content"
         android:layout_row="2"
         android:layout_column="1"
-        android:text="TextView" />
+        android:text="Koniseg gamera" />
 
     <TextView
         android:id="@+id/textView4"
@@ -85,7 +85,7 @@
         android:layout_height="wrap_content"
         android:layout_row="1"
         android:layout_column="1"
-        android:text="TextView" />
+        android:text="Pegasus" />
 
     <TextView
         android:id="@+id/textView5"
@@ -93,16 +93,16 @@
         android:layout_height="wrap_content"
         android:layout_row="1"
         android:layout_column="0"
-        android:text="TextView" />
+        android:text="Konisegg Engine view" />
 
     <TextView
         android:id="@+id/textView6"
-        android:layout_width="80dp"
-        android:layout_height="64dp"
+        android:layout_width="88dp"
+        android:layout_height="wrap_content"
         android:layout_row="0"
         android:layout_column="1"
         android:text="car"
-        android:textColor="@color/design_default_color_error"
+        android:textAlignment="gravity"
         android:textSize="25sp" />
 
 

@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Experiment-7</string>
+    <string name="empty" />
+    <string name="button">Button</string>
+    <string name="female">Female</string>
+    <string name="male">Male</string>
+    <string name="date_of_brith">Date of Brith</string>
+    <string name="address">address</string>
+    <string name="add">Address</string>
+    <string name="gender">Gender:</string>
+    <string name="password">Password:</string>
+    <string name="name">Name</string>
+    <string name="name1">Name:</string>
+    <string name="user_details">User Details</string>
+    <string name="select_date">Select Date</string>
+</resources>
