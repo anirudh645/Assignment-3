@@ -14,4 +14,5 @@
         android:layout_marginStart="16dp"
         android:text="@string/hello_anirudh"
         android:textSize="25sp" />
+
 </FrameLayout>
